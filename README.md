@@ -1,6 +1,3 @@
-
-
-
 <h3 align="center">
     Hi There
     <img src="wave.gif" 
@@ -11,7 +8,7 @@
 </h3>
 
 
-## This is a simple PHP CRUD Operation Project. We can Read, Create, Update and Delete the data in Database with this project 🚀
+## This is a simple student registration portal using PHP. We can Read, Create, Update and Delete the student details in Database with this project 🚀
 
 <br>
 
