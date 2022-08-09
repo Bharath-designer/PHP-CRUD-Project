@@ -13,7 +13,7 @@
 <br>
 
 
-## To run this project, download the source files and extract to a folder. Create a MySQL Database named "student_db" and import the "users.sql" file to the created Database. 
+## To run this project, download the source files and extract to a folder. Create a MySQL Database named "student_db" and import the "users.sql" file to the created Database. Then use any server to run the Web App.
 
 <br>
 
