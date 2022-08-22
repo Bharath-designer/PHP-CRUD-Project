@@ -1,5 +1,5 @@
 <h3 align="center">
-    Hi There
+    Hey there
     <img src="wave.gif" 
          alt="Waving hand gif"
          height="45"
