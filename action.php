@@ -38,7 +38,7 @@ if (isset($_POST['sub'])) {
     $uptemail = $_POST['email'];
     echo $uptemail . $uptname;
     $conn = new mysqli('localhost', 'root', '', 'student_db');
-    $sql = "UPDATE users SET (email,name) VALUES('$uptemail','$uptname') WHERE id='3'";
+    $sql = "UPDATE users SET `name` = '$uptname' WHERE `email`= '$uptemail'";
     $result = mysqli_query($conn, $sql);
 
     header("Location: read.php");
