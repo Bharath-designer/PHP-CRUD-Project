@@ -34,7 +34,9 @@
                             } elseif (isset($_GET['edtemail'])) {
 
                                 echo $_GET['edtemail'];
-                            } ?>" type="email" name="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+                            } ?>" <?php if (isset($_GET['edtemail'])) {
+                                echo "disabled";
+                            } ?> type="email" name="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
         </div>
 
         <div class="mb-3">
