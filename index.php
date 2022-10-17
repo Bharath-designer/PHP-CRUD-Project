@@ -35,7 +35,7 @@
 
                                 echo $_GET['edtemail'];
                             } ?>" <?php if (isset($_GET['edtemail'])) {
-                                echo "disabled";
+                                echo "readonly";
                             } ?> type="email" name="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
         </div>
 
