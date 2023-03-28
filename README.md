@@ -1,6 +1,6 @@
 <h3 align="center">
     Hey there
-    <img src="wave.gif" 
+    <img src="https://raw.githubusercontent.com/Bharath-designer/bharath-designer/main/assets/wave.gif" 
          alt="Waving hand gif"
          height="45"
          width="45" />
